@@ -19,7 +19,7 @@
 		<footer>
     		<ul>
         		<li><a href="mailto:">email</a></li>
-        		<li><a href="https://learnCodeStories.github.io">learnCodeStories.github.io</a></li>
+        		<li><a href="https://suramya.github.io/learnCodeStories">learnCodeStories</a></li>
 			</ul>
 		</footer>
 	</body>
